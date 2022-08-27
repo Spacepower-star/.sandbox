@@ -1,0 +1,7 @@
+def nums(first,second)
+ num=int(input("enter the first:"))
+     float(input("enter the second:"))
+   sum=first+second
+   nums(5,6)
+   print(+nums"thank you,")
+   
